@@ -1,5 +1,6 @@
 const mongoose = require( 'mongoose' );
 
+// Connecting to mongo database using mongoose
 mongoose.connect(`mongodb://localhost:27017/${process.env.DB_NAME}`,
     {useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false});
 
