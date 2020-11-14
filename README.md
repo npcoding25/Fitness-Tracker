@@ -45,3 +45,5 @@ For some reason the combined duration comes back as undefined and I couldn't fig
 ![image](https://user-images.githubusercontent.com/69565347/98896301-8234f800-245d-11eb-88f0-1e102f11d682.png)
 
 ![image](https://user-images.githubusercontent.com/69565347/98896394-b01a3c80-245d-11eb-9b76-9567f50d0997.png)
+
+Click [Here](https://pure-atoll-57383.herokuapp.com/) to see deployed application.
